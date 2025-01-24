@@ -1,0 +1,264 @@
+{
+  "promises": [
+    {
+      "id": 1,
+      "title": "Cut taxes for everyone, especially the middle class.",
+      "details": "The Tax Cuts and Jobs Act of 2017 significantly lowered income tax rates. However, the cuts were not evenly distributed, with the largest benefits going to corporations and higher-income individuals. While some middle-income families did receive tax cuts, they were smaller on average. The individual tax cuts are set to expire in 2025, meaning that tax rates could increase again.",
+      "status": "Compromise",
+       "statusDetail": "While tax cuts were enacted, the middle class did not benefit as significantly as promised. This is backed by Politifacts analysis of the Tax Cut and Jobs Act which shows disproportionate tax benefits",
+      "sources": {
+        "Politifact": "https://www.politifact.com/factchecks/2017/dec/20/donald-trump/did-middle-class-get-biggest-tax-cut/",
+        "BBC News": "https://www.bbc.com/news/world-us-canada-42433005"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Lower the business tax rate from 35% to 15%.",
+      "details": "The corporate tax rate was lowered to 21%, not 15%. This reduction significantly lowered the tax burden on large businesses, but it did not reach the promised level. The move was a part of the same Tax Cuts and Jobs Act.",
+      "status": "Compromise",
+       "statusDetail": "The corporate tax rate was lowered but not to the 15% promised.",
+      "sources": {
+        "BBC News": "https://www.bbc.com/news/world-us-canada-42433005"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Eliminate the carried interest loophole.",
+      "details": "This tax break, which allows hedge fund and private equity managers to pay a lower capital gains tax rate on their profits, was not eliminated. Despite Trump's claims of wanting to close this loophole, it remains in effect. Politifact's research shows no change to this particular tax loophole, which confirms the promise being broken.",
+      "status": "Promise Broken",
+       "statusDetail": "This loophole has not been addressed and remains intact despite the promise.",
+      "sources": {
+        "Politifact": "https://www.politifact.com"
+      }
+    },
+    {
+      "id": 4,
+      "title": "End taxation on tips, Social Security benefits, overtime pay and car loan interest.",
+      "details": "These tax changes would require congressional action, and were not acted upon during the Trump presidency. There were no significant measures taken to end tax on these particular items.",
+      "status": "Not Yet Rated",
+       "statusDetail": "Requires Congressional action to enact.",
+      "sources": {
+        "Al Jazeera": "https://www.aljazeera.com"
+      }
+    },
+    {
+      "id": 5,
+      "title": "Enact a 10% to 20% across-the-board import tariff.",
+      "details": "While tariffs were imposed on certain goods, there was no across-the-board import tariff of 10% to 20% was enacted during his presidency. A lack of large scale implementation means it does not meet the promise.",
+      "status": "Not Yet Rated",
+       "statusDetail": "No action to implement the promised tariff.",
+      "sources": {
+        "Al Jazeera": "https://www.aljazeera.com"
+      }
+    },
+    {
+      "id": 6,
+      "title": "Reduce the national debt and eliminate it in 8 years.",
+      "details": "The national debt increased significantly during the Trump presidency, with both tax cuts and increased spending contributing to the rise. The promise of reducing and eliminating the debt has failed to come to fruition, with the debt increasing substantially. Politifact's reporting shows the national debt increased throughout the term.",
+      "status": "Promise Broken",
+       "statusDetail": "The national debt increased significantly under Trump's administration.",
+      "sources": {
+        "Politifact": "https://www.politifact.com/factchecks/2020/aug/03/donald-trump/did-national-debt-go-down-or-during-trumps-presi/",
+        "BBC News": "https://www.bbc.com/news"
+      }
+    },
+    {
+      "id": 7,
+      "title": "Build a wall on the southern border and make Mexico pay for it.",
+      "details": "A portion of the wall was built, but not the entire length as promised. More importantly, Mexico did not contribute any funding for its construction. US taxpayers financed the building of the wall.",
+      "status": "Promise Broken",
+       "statusDetail": "The wall was not completed as promised, and Mexico did not pay for it.",
+      "sources": {
+        "BBC News": "https://www.bbc.com/news/world-us-canada-51225510",
+        "Politifact": "https://www.politifact.com"
+      }
+    },
+    {
+      "id": 8,
+      "title": "Suspend immigration from terror-prone places, and implement \"extreme vetting\".",
+      "details": "Executive orders were enacted to ban travel from several predominantly Muslim countries. These orders were challenged in court and were modified several times before being implemented. The final versions restricted travel from specific countries but didn’t represent a complete ban as initially suggested. The original ban was intended for Muslim majority countries, but was modified and had exceptions made by the courts.",
+      "status": "Compromise",
+       "statusDetail": "Travel bans were enacted but were heavily modified and did not represent a blanket ban.",
+      "sources": {
+        "BBC News": "https://www.bbc.com/news/world-us-canada-38741594",
+        "Politifact": "https://www.politifact.com"
+      }
+    },
+    {
+      "id": 9,
+      "title": "Deport all illegal immigrants.",
+      "details": "The Trump administration did increase deportations of undocumented immigrants, and focused on those with criminal records, but did not deport all of them. Mass deportation did not happen, meaning that the promise did not come to fruition.",
+      "status": "Promise Broken",
+       "statusDetail": "Mass deportation never occurred.",
+      "sources": {
+        "BBC News": "https://www.bbc.com/news"
+      }
+    },
+    {
+      "id": 10,
+      "title": "Conduct the largest domestic deportation operation in American history.",
+      "details": "No comprehensive plan was enacted for mass deportation operations, and while deportation did increase, no plan was ever presented for mass deportations.",
+      "status": "Not Yet Rated",
+       "statusDetail": "No plan for large scale deportations was enacted.",
+      "sources": {
+        "Al Jazeera": "https://www.aljazeera.com"
+      }
+    },
+    {
+      "id": 11,
+      "title": "End birthright citizenship.",
+      "details": "No action was taken to end birthright citizenship, which is constitutionally protected. There is no viable mechanism for the president to end this.",
+      "status": "Promise Broken",
+       "statusDetail": "The change is not a simple executive action and would require a constitutional amendment to change.",
+      "sources": {
+        "Politifact": "https://www.politifact.com",
+        "Al Jazeera": "https://www.aljazeera.com"
+      }
+    },
+    {
+      "id": 12,
+      "title": "Cancel visas to foreign countries that won't take undocumented immigrants back.",
+      "details": "Some sanctions were imposed on countries that refused to take back undocumented immigrants, but not all countries were impacted and the policy was not implemented fully. Some visa cancellations were made, but not on a complete scale.",
+      "status": "Compromise",
+       "statusDetail": "Some sanctions were imposed, but the policy was not broadly implemented.",
+      "sources": {
+        "Politifact": "https://www.politifact.com/factchecks/2019/apr/15/donald-trump/trump-administration-imposes-visa-sanctions-countr/"
+      }
+    },
+    {
+      "id": 13,
+      "title": "Repeal and replace Obamacare.",
+      "details": "Multiple attempts to repeal the Affordable Care Act (ACA), also known as Obamacare, failed in Congress. Although some aspects of the law were dismantled, the main structure of the ACA remains in effect. The core of Obamacare was left in place despite efforts to repeal it.",
+      "status": "Promise Broken",
+       "statusDetail": "The ACA remains in place, with the majority of the law intact.",
+      "sources": {
+        "BBC News": "https://www.bbc.com/news/world-us-canada-40717508",
+        "Politifact": "https://www.politifact.com",
+        "Al Jazeera": "https://www.aljazeera.com"
+      }
+    },
+    {
+      "id": 14,
+      "title": "Make no cuts to Social Security and Medicare.",
+      "details": "While Trump claimed no intention to cut these programs, his policies, such as the tax cuts, are predicted to accelerate their insolvency. Although there were no active cuts during his presidency, the future implications of his policies are detrimental to the solvency of these programs, and contradicts the promise.",
+      "status": "Compromise",
+       "statusDetail": "Despite claims, his fiscal policies are likely to have a negative effect on Social Security and Medicare.",
+      "sources": {
+        "Politifact": "https://www.politifact.com"
+      }
+    },
+    {
+      "id": 15,
+      "title": "Not support a national ban on abortions",
+      "details": "He has stated that states should legislate on abortion, but has supported a 15-16 week federal ban in the past. This puts this in the “Not Yet Rated” category because he has held different views, it would be difficult to keep the promise on both sides of the situation, and has not implemented a federal plan.",
+      "status": "Not Yet Rated",
+       "statusDetail": "There is no clear answer on where Trump stands on abortion.",
+      "sources": {
+        "Al Jazeera": "https://www.aljazeera.com"
+      }
+    },
+    {
+      "id": 16,
+      "title": "Withdraw from the Paris Climate Agreement.",
+      "details": "The U.S. officially withdrew from the Paris Agreement, making good on this campaign promise.",
+      "status": "Promise Kept",
+       "statusDetail": "The U.S. withdrew from the Paris Agreement.",
+      "sources": {
+        "BBC News": "https://www.bbc.com/news/world-us-canada-54865757",
+        "Politifact": "https://www.politifact.com"
+      }
+    },
+    {
+      "id": 17,
+      "title": "Move the U.S. Embassy in Israel from Tel Aviv to Jerusalem.",
+      "details": "The U.S. Embassy was moved to Jerusalem, fulfilling this promise.",
+      "status": "Promise Kept",
+       "statusDetail": "The embassy was moved to Jerusalem.",
+      "sources": {
+        "BBC News": "https://www.bbc.com/news/world-middle-east-44166376",
+        "Politifact": "https://www.politifact.com"
+      }
+    },
+    {
+      "id": 18,
+      "title": "Bring troops home from the Middle East.",
+      "details": "While troop withdrawals were initiated, they were not completed, and the number of troops remains significant in the Middle East. Troops were reduced but never fully removed.",
+      "status": "Compromise",
+       "statusDetail": "Troop withdrawals were initiated but not fully completed.",
+      "sources": {
+        "BBC News": "https://www.bbc.com/news"
+      }
+    },
+    {
+      "id": 19,
+      "title": "Label China a currency manipulator.",
+      "details": "The U.S. initially labeled China a currency manipulator but later reversed this decision. The promise was therefore not upheld in full and was a temporary decision.",
+      "status": "Compromise",
+       "statusDetail": "The US reversed the decision to label China as a currency manipulator.",
+      "sources": {
+        "BBC News": "https://www.bbc.com/news/business-49266994",
+        "Politifact": "https://www.politifact.com"
+      }
+    },
+    {
+      "id": 20,
+      "title": "End the Russia-Ukraine War within 24 hours of taking office.",
+      "details": "This promise is contingent on factors outside of Trump's control, meaning that it’s not possible to guarantee this promise.",
+      "status": "Not Yet Rated",
+       "statusDetail": "The resolution of the war is not entirely within his control.",
+      "sources": {
+        "Al Jazeera": "https://www.aljazeera.com"
+      }
+    },
+    {
+      "id": 21,
+      "title": "Appoint conservative judges who respect the Second Amendment.",
+      "details": "Trump appointed three conservative justices to the Supreme Court: Neil Gorsuch, Brett Kavanaugh, and Amy Coney Barrett. This fulfilled his promise to reshape the judiciary with conservative judges.",
+      "status": "Promise Kept",
+       "statusDetail": "Three conservative justices were appointed to the Supreme Court.",
+      "sources": {
+        "BBC News": "https://www.bbc.com/news/world-us-canada-48079274"
+      }
+    },
+    {
+      "id": 22,
+      "title": "Cut federal regulations by 70%.",
+      "details": "While there were significant cuts to federal regulations across many sectors, the overall reduction did not reach the 70% target. This promise was not kept in full and fell short of the promised amount.",
+      "status": "Compromise",
+       "statusDetail": "Significant regulation cuts were enacted, but did not meet the 70% goal.",
+      "sources": {
+        "BBC News": "https://www.bbc.com/news"
+      }
+    },
+    {
+      "id": 23,
+      "title": "Ban on Muslims entering the U.S.",
+      "details": "The administration issued travel bans that targeted several Muslim-majority countries, fulfilling a promise made in principle but was challenged and modified by courts.",
+      "status": "Compromise",
+       "statusDetail": "Travel bans were enacted but were not absolute and changed by the courts.",
+      "sources": {
+        "BBC News": "https://www.bbc.com/news"
+      }
+    },
+    {
+      "id": 24,
+      "title": "Eliminate Common Core.",
+      "details": "Common Core standards still exist, and the federal government has made no serious changes to these standards.",
+      "status": "Promise Broken",
+       "statusDetail": "Common Core standards still exist.",
+      "sources": {
+        "Politifact": "https://www.politifact.com"
+      }
+    },
+    {
+      "id": 25,
+      "title": "Not take vacations",
+      "details": "Trump frequently vacationed at his properties, which goes directly against his promise.",
+      "status": "Promise Broken",
+       "statusDetail": "Trump took regular vacations during his presidency.",
+      "sources": {
+        "Politifact": "https://www.politifact.com"
+      }
+    }
+  ]
+}
